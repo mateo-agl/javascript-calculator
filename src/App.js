@@ -1,7 +1,6 @@
 import React from "react";
 import { Buttons } from "./components/Buttons.jsx";
 import { Display } from "./components/Display.jsx";
-import "./app.css";
 
 export class App extends React.Component {
     constructor(props) {
